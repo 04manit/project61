@@ -1,0 +1,104 @@
+#div_1{
+    background-image: linear-gradient(to bottom right, #ff4b42, #F9D467, #ffdb7a, #ff4b42);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    border: 5px solid purple;
+    /*margin-left: 350px;*/
+}
+img{
+    margin-top: 40px;
+    margin-left: -100px;
+    width: 15%;
+/*    border-radius: 200px;*/
+    border: 5px solid darkblue;
+}
+#p_1{
+    margin-left: -100px;
+    color: darkgreen;
+    font-size: 30px;
+}
+#p_2{
+    margin-left: -100px;
+    font-size: 30px;
+    color: darkblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#p_3{
+    margin-left: -100px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#div_2{
+    
+    text-align: center;
+    width: 50%;
+    margin-left: 250px;
+}
+body{
+    text-align: center;
+}
+#p_4{
+    font-size: 20px;
+    color: red;
+}
+h1{
+    font-size: 60px;
+}
+.menu{
+    list-style: none;
+    font-family: 'Oswald', sans-serif;
+    position: absolute;
+    margin-top: 10px;
+    /*margin-right: 30px;*/
+    margin-left: 600px;
+    z-index: 10;
+    cursor: pointer;
+    
+}
+.link{
+    float: left;
+    color: black;
+    font-weight: bold;
+    margin-right: 10px;
+    font-size: 15px;
+}
+.link:hover{
+    background-color: white;
+}
+#img_books{
+    width: 300px;
+    margin-left: 10px;
+}
+#div_2{
+    background-color: lightcyan;
+}
+#div_3{
+    background-color: lightpink;
+}
+#div_4{
+    background-color: lightyellow;
+}
+#div_5{
+    background-color: lightskyblue;
+}
+#img_2{
+    margin-left: 100px;
+}
+#img_1{
+    height: 220px;
+    width: 250px;
+}
+#gmail{
+    text-decoration: none;
+}
+#instagram{
+    text-decoration: none;
+}
+#contact_2 h3{
+    display: inline;
+}
+#contact_2{
+    background-color: aquamarine;
+}
